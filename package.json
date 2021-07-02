@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.0"
+  },
+  "devDependencies": {},
+  "description": "curd operation using node with express",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thibakar/Node-Express-Curd-Operation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Thibakar/Node-Express-Curd-Operation/issues"
+  },
+  "homepage": "https://github.com/Thibakar/Node-Express-Curd-Operation#readme"
+}
